@@ -2,7 +2,7 @@ package Bancario.Entidades;
 
 public class Cliente {
     String nome;
-    Integer identificador; //CPF
+    Integer rg; //rg
 
     public String getNome() {
         return nome;
@@ -12,11 +12,11 @@ public class Cliente {
         this.nome = nome;
     }
 
-    public Integer getIdentificador() {
-        return identificador;
+    public Integer getRg() {
+        return rg;
     }
 
-    public void setIdentificador(Integer identificador) {
-        this.identificador = identificador;
+    public void setRg(Integer rg) {
+        this.rg = rg;
     }
 }

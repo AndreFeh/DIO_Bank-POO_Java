@@ -9,7 +9,7 @@ public class RunApplication {
     public static void main(String[] args) {
         Cliente andre = new Cliente();
         andre.setNome("André");
-        andre.setIdentificador(619925493);
+        andre.setRg(896502357);
 
         Conta cc = new ContaCorrente(andre);
         Conta cp = new ContaPoupanca(andre);
