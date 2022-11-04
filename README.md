@@ -33,11 +33,13 @@ Aquilo que só o pai sabe, é PRIVATE; o que ele contou para os filhos, é PROTE
  
 ## Sucesso 
 Bancario.RunApplication
+
 === Extrato Conta Corrente ===
 Titular: André
 Agencia: 8969
 Conta: 1111111
 Saldo: -50,00
+
 === Extrato Conta Poupança ===
 Titular: André
 Agencia: 8969
